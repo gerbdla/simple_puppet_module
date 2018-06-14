@@ -1,0 +1,1 @@
+# sample_puppet_module
